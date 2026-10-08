@@ -9,7 +9,8 @@
 | Repository | Purpose |
 | --- | --- |
 | [`requirements`](https://github.com/Business-Unit-for-Energy-Saving/requirements) | 业务需求、场景研究和产品规划 |
-| [`business-unit-for-energy-saving.github.io`](https://github.com/Business-Unit-for-Energy-Saving/business-unit-for-energy-saving.github.io) | 组织公开说明、项目地图和文档入口 |
+| [`myems`](https://github.com/Business-Unit-for-Energy-Saving/myems) | 组织维护的 MyEMS fork，承载能源管理产品代码 |
+| [`business-unit-for-energy-saving.github.io`](https://github.com/Business-Unit-for-Energy-Saving/business-unit-for-energy-saving.github.io) | 公开组织说明、行业资料简报和边界入口 |
 
 ## Boundary
 
@@ -17,6 +18,11 @@
 - 通用工程底座归 `Business-Unit-for-Platform`。
 - 跨 BU 数据、知识和自动化能力按总裁办治理规则协同。
 - 不在公开仓库中保存客户隐私、生产配置或敏感凭据。
+
+## Current Stage
+
+当前处于 `Incubating` 阶段，重点是公开资料积累、企业和园区用能场景研究以及需求验证。
+上方业务范围表示目标能力边界，不表示已经确定具体市场切入方向或已经形成客户交付承诺。
 
 ---
 

@@ -2,7 +2,8 @@
 
 ## 定位
 
-`Business-Unit-for-Energy-Saving` 负责节能技术、能源管理与碳减排相关的长期业务和产品资产。
+`Business-Unit-for-Energy-Saving` 负责节能技术、能源管理与碳减排相关的目标业务和产品资产。
+当前组织处于 `Incubating` 阶段，正在通过公开资料积累、场景研究和需求验证确定业务切入方向。
 
 ## 业务范围
 
@@ -25,3 +26,5 @@
 当前状态：`Incubating`
 
 进入 `Active` 前，应至少有明确负责人、持续维护的业务目标，以及一个真实维护的需求或产品仓库。
+`requirements` 是需求入口，`myems` 是组织维护的上游 MyEMS fork；两者的维护责任、依赖和边界
+应分别记录在对应仓库中。
